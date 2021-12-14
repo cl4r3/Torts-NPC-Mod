@@ -1,0 +1,20 @@
+{
+"Changes": [
+
+//------------------------
+// G I F T S
+//------------------------
+
+	{
+		"LogName": "Torts gift tastes",
+		"Action": "EditData",
+		"Target": "Data/NPCGiftTastes",
+		"Entries": {
+
+			"Torts": ""
+
+		},
+	}
+
+]
+}

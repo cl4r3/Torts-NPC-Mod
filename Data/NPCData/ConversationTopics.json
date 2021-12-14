@@ -1,0 +1,11 @@
+{
+"Changes": [
+
+	// Conversation Topics are dialogue keys that characters will use after a given event.
+	// For example, after Keahi's two-heart event, the town receives the 'keahi_prank' conversation topic,
+	// where they all talk about how the farmer smells. 
+	// Note: Making a single character have a specific line of dialogue after an event can be done in the event code
+	// itself and does not need a conversation topic.
+
+]
+}

@@ -1,0 +1,14 @@
+{
+"Changes": [
+
+	{
+		"LogName": "Torts schedule changees",
+		"Action": "EditData",
+		"Target": "Characters/Schedules/Torts",
+		"Entries": {
+		},
+		"When": { "" : "" }
+	}
+	}
+]
+}

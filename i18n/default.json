@@ -1,0 +1,107 @@
+{
+// Wiki page: https://stardewvalleywiki.com/Modding:Dialogue
+// Random Custom NPC guide I found (ignore the dialogue key parts)
+// https://docs.google.com/document/d/1ySOIiA2PxYGOTz8epmEd7pSg7i6XDzibOL9H8G7ZrjM/edit#heading=h.7oulv7tcwasn
+// I'll try to summarize the important things to know:
+// If a sentence is too long, it gets split into two dialogue boxes. Putting #$b#
+// in a string means 'break here' and will break the text into two dialogue boxes
+// so that you can control where it gets split. #$e# in the middle of a string means
+// 'end here', meaning that the dialogue will stop at the end point, and if the player
+// interacts with the NPC again, the part of the string that follows the end point will
+// then be displayed.
+// The default portrait that gets shown is the neutral one, or $0, since it's the 0th
+// index in the portrait list. To show the index 1 portrait, put $1 at the end of the dialogue
+// line. (So before the break/end point, or the end of the string.) Index 2 is $2,
+// index 3 is $3, etc. The base expressions also have some non-numeric shorthands -
+// the happy portrait is $h, the sad portrait is $s, and the angry portrait is $a.
+// (These are typically $1, $2, and $4 respectively - $3 depends on the NPC.)
+// If you can put in the break/end points and portrait commands, that would help
+// a lot, but if it seems complicated, don't worry about it. Getting the dialogue
+// done is the focus.
+
+// Torts - gift dialogue
+"Torts.gift.love": "",
+"Torts.gift.like": "",
+"Torts.gift.neutral": "",
+"Torts.gift.dislike": "",
+"Torts.gift.hate": "",
+
+// Feel free to add more random dialogue. Just make sure to increase the numbers,
+// and don't forget to keep the JSON formatting in tact. (commas, quotes, etc)
+// Torts - pre twist random dialogue
+"Torts.pre.twist.1": "",
+"Torts.pre.twist.2": "",
+"Torts.pre.twist.3": "",
+
+// Torts - post twist random dialogue
+"Torts.post.twist.1": "",
+"Torts.post.twist.2": "",
+"Torts.post.twist.3": "",
+
+// Torts - visit realm (I assume this will be random as well?)
+"Torts.visit.realm.1": "",
+"Torts.visit.realm.2": "",
+"Torts.visit.realm.3": "",
+
+// Resort dialogue (these are needed for when he visits the Ginger Island resort)
+"Torts.enter.resort": "",
+"Torts.at.resort": "",
+"Torts.shore.resort": "",
+"Torts.leave.resort": "",
+
+// Egg Festival (Setup is pre-egg hunt, main is if you talk to him during egg hunt)
+"Torts.spring.13.setup": "",
+"Torts.spring.13.main": "",
+
+// Flower Dance
+"Torts.spring.24.setup": "",
+
+// Luau
+"Torts.summer.11.setup": "",
+
+// Moonlight Jellies
+"Torts.summer.28.setup": "",
+
+// Stardew Valley Fair
+"Torts.fall.16.setup": "",
+
+// Ridgeside Gathering
+"Torts.fall.20.setup": "",
+
+// Spirit's Eve
+"Torts.fall.27.setup": "",
+
+// Ice Festival (Setup is pre-fishing contest, main is if you talk to him during contest)
+"Torts.winter.8.setup": "",
+"Torts.winter.8.main": "",
+
+// Winter Star
+"Torts.winter.25.setup": "",
+
+// Ember of resolutions
+"Torts.winter.28.setup": "",
+
+// Movie theater stuff
+"Torts.movie.invite": "",
+"Torts.before.sapling": "",
+"Torts.during.sapling": "",
+"Torts.after.sapling": "",
+"Torts.before.journey": "",
+"Torts.during.journey": "",
+"Torts.after.journey": "",
+"Torts.before.mysterium": "",
+"Torts.during.mysterium": "",
+"Torts.after.mysterium": "",
+"Torts.before.wonders": "",
+"Torts.during.wonders": "",
+"Torts.after.wonders": "",
+"Torts.before.wumbus": "",
+"Torts.during.wumbus": "",
+"Torts.after.wumbus": "",
+"Torts.before.howls": "",
+"Torts.during.howls": "",
+"Torts.after.howls": "",
+"Torts.before.zuzu": "",
+"Torts.during.zuzu": "",
+"Torts.after.zuzu": "",
+}
