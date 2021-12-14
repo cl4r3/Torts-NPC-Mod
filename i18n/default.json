@@ -82,7 +82,9 @@
 "Torts.winter.28.setup": "",
 
 // Movie theater stuff
-// FTR, none of these dialogue keys are set in stone - if you want to make him like only Wumbus and react to everything else the same way, we could keep just the three Wumbus keys and replace the rest with Torts.before.other, Torts.during.other, and Torts.after.other - or however you want. All that matters is that the keys are named in a way that we both know what they mean
+// FTR, none of these dialogue keys are set in stone - if you want to make him like only Wumbus and react to everything else the same way,
+// we could keep just the three Wumbus keys and replace the rest with Torts.before.other, Torts.during.other, and Torts.after.other -
+// or however you want. All that matters is that the keys are named in a way that we both know what they mean/
 "Torts.movie.invite": "",
 "Torts.before.sapling": "",
 "Torts.during.sapling": "",
