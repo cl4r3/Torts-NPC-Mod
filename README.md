@@ -54,3 +54,4 @@ Art needed:
 - 6 heart event art: Flipped Torts portrait and sprites
 - 10 heart event art: Torts grabbing sleeve, Torts' true form, Torts' Realm map
 - Torts in sunglasses
+- Torts Halloween costume
