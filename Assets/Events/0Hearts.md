@@ -1,16 +1,15 @@
 # Torts 0 Heart Event
-Setting: Ridgeside Village
-Time:
-Weather: Sunny?
+(Here's an example of what a script could go like. Obviously, feel free to change it however you like.)
 
-Insert stage direction here. The rest of this document is just an example of how this script could go.
-The farmer enters the village from the Cliff. Trinnie and Keahi are standing by the town map (same area where Keahi's 2 heart even takes place.)
+**Setting:** Ridgeside Village / **Time:** 12-4 PM, Saturday or Sunday / **Weather:** Sunny
+
+*The farmer enters the village from the Cliff. Trinnie and Keahi are standing by the town map. (So same area where Keahi's 2 heart even takes place.)*
 
 Keahi: Hi farmer @!
 
-Farmer does ? emote.
+*Farmer does ? emote.*
 
-Trinnie moves forward one space, does music note emote.
+*Trinnie moves forward one space, does music note emote.*
 
 Trinnie: Guess what we found!
 
