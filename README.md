@@ -55,3 +55,4 @@ Art needed:
 - 10 heart event art: Torts grabbing sleeve, Torts' true form, Torts' Realm map
 - Torts in sunglasses
 - Torts Halloween costume
+-bingus tingus
