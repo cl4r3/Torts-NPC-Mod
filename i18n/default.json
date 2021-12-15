@@ -20,33 +20,28 @@
 // done is the focus.
 
 // Torts - gift dialogue
-"Torts.gift.love": "",
-"Torts.gift.like": "",
-"Torts.gift.neutral": "",
-"Torts.gift.dislike": "",
-"Torts.gift.hate": "",
+"Torts.gift.love": "*Wiggles*",
+"Torts.gift.like": "*Smiles*",
+"Torts.gift.neutral": "*Slurps soup*",
+"Torts.gift.dislike": "%Torts kicks your gift away.",
+"Torts.gift.hate": "*Hiss hiss*$a",
 
 // Raf's Torts dialogue - feel free to keep or delete or change
 // We can also keep the seasonality if you want, just be sure to keep some kind
 // of signifier in the dialogue key along with pre/post twist
 "Torts.spring1": "*Spring turtle noises*",
-"Torts.spring2": "*Stares at you intensely*",
-"Torts.spring3": "*Munches on flowers*",
 "Torts.spring4": "*Snorts*",
 "Torts.spring5": "*Inhales flowers*",
 "Torts.spring6": "*Sneezes*",
 "Torts.spring7": "*Yawns*",
 "Torts.spring8": "*Burps*",
-"Torts.spring9": "*Hiss hiss*",
 "Torts.spring10": "*Hiccup*",
 "Torts.summer1": "*Hiss hiss but in summer*",
 "Torts.summer2": "*Pretend sweats*",
 "Torts.summer3": "*Munches on banana*",
-"Torts.summer4": "*Sunbathes intensely*",
-"Torts.summer5": "*Slurps soup*",
+"Torts.summer4": "",
 "Torts.summer6": "*Salivates*",
 "Torts.summer7": "*Gasps for water*",
-"Torts.summer8": "*Wiggles*",
 "Torts.summer9": "*Summer turtle noises*",
 "Torts.summer10": "*Stares with passion*",
 "Torts.fall1": "*Fall turtle noises*",
@@ -57,25 +52,25 @@
 "Torts.fall6": "*Looking for a sai*",
 "Torts.fall7": "*Digs*",
 "Torts.fall8": "*Stares in silence*",
-"Torts.fall9": "*Enjoys weather*",
+"Torts.fall9": "",
 "Torts.fall10": "*Smiles*",
 "Torts.winter1": "*Winter turtle noises*",
 "Torts.winter2": "*Creepy smile*",
-"Torts.winter3": "*Sings a merry song*",
 "Torts.winter4": "*Stares boastfully*",
 "Torts.winter5": "*Hides in shell*",
 "Torts.winter6": "*Munches on snow*",
 "Torts.winter7": "*Makes snow turtle-angel*",
 "Torts.winter8": "*Demands a scarf*",
 "Torts.winter9": "*Begs for cuddles*",
-"Torts.winter10": "*Plans heist*",
+
   
 // Feel free to add more random dialogue. Just make sure to increase the numbers,
 // and don't forget to keep the JSON formatting in tact. (commas, quotes, etc)
 // Torts - pre twist random dialogue
-"Torts.pre.twist.1": "",
-"Torts.pre.twist.2": "",
+"Torts.pre.twist.1": "*Turtle Noises*",
+"Torts.pre.twist.2": "%Torts stares at you intensely",
 "Torts.pre.twist.3": "",
+//Torts 10 hearts (Not connected to Twist)
 
 // Torts - post twist random dialogue
 "Torts.post.twist.1": "",
@@ -88,9 +83,9 @@
 "Torts.visit.realm.3": "",
 
 // Resort dialogue (these are needed for when he visits the Ginger Island resort)
-"Torts.enter.resort": "",
-"Torts.at.resort": "",
-"Torts.shore.resort": "",
+"Torts.enter.resort": "*Enjoys weather*",
+"Torts.at.resort": "*Sunbathes intensely*",
+"Torts.shore.resort": "%Torts is failing to build a sandcastle",
 "Torts.leave.resort": "",
 
 // Egg Festival (Setup is pre-egg hunt, main is if you talk to him during egg hunt)
@@ -98,29 +93,29 @@
 "Torts.spring.13.main": "",
 
 // Flower Dance
-"Torts.spring.24.setup": "",
+"Torts.spring.24.setup": "*Tries to eat the flower decorations*",
 
 // Luau
-"Torts.summer.11.setup": "",
+"Torts.summer.11.setup": "*Splashes around in the water*$h",
 
 // Moonlight Jellies
 "Torts.summer.28.setup": "",
 
 // Stardew Valley Fair
-"Torts.fall.16.setup": "",
+"Torts.fall.16.setup": "*Hides in shell*",
 
 // Ridgeside Gathering
-"Torts.fall.20.setup": "",
+"Torts.fall.20.setup": "*Tries to sell you leaves*",
 
-// Spirit's Eve
-"Torts.fall.27.setup": "",
+// Spirit's Eve (ninja turtle art)
+"Torts.fall.27.setup": "*Looks for a sai*",
 
 // Ice Festival (Setup is pre-fishing contest, main is if you talk to him during contest)
 "Torts.winter.8.setup": "",
 "Torts.winter.8.main": "",
 
 // Winter Star
-"Torts.winter.25.setup": "",
+"Torts.winter.25.setup": "*Sings a merry song*$h",
 
 // Ember of resolutions
 "Torts.winter.28.setup": "",
