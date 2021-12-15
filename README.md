@@ -11,9 +11,8 @@ think maybe its a relative of his. Theres no way a tortoise can live that long r
 is all pretty much a mystery and he won't tell anyone where he comes from. I also want this overlapping mystery to be 
 throughout the whole game with very tiny hints.
 
-- Torts can be brought to the movies, only loved movie is Wumbus, loved snack is stardrop sorbet. Likes only
-Apple slices and Panzanella Salad (Not human food)
-  - Are you sure we can specify concession likes by item only and not by tag? I believe you when you say you've looked at the code inside out and all, I've just only seen it done by tag before. So in that case, we ought to think of at least one tag he likes.
+-Torts can be brought to the movies, only loved movie is Wumbus, loved snack is stardrop sorbet. Likes only
+Apple slices and Panzanella Salad(Not human food)
 
 - Personality wise we could make torts very classy or like a wise old man lol
 
@@ -59,4 +58,10 @@ Art needed:
 - 10 heart event art: Torts grabbing sleeve, Torts' true form, Torts' Realm map
 - Torts in sunglasses
 - Torts Halloween costume
+
+1.5 Update
+
+-Big Central Idea is Island Mountain Turtle
+-Maybe a offshoot Island from Ginger Island
+-Its like a hidden land for the special turtles/maybe some of the dinos seen in the caverns
 
