@@ -29,21 +29,20 @@
 // Raf's Torts dialogue - feel free to keep or delete or change
 // We can also keep the seasonality if you want, just be sure to keep some kind
 // of signifier in the dialogue key along with pre/post twist
-"Torts.spring4": "*Snorts*",
+"Torts.spring4": "**",
 "Torts.spring5": "*Inhales flowers*",
-"Torts.spring8": "*Burps*",
-"Torts.spring10": "*Hiccup*",
+"Torts.spring8": "**",
+"Torts.spring10": "**",
 "Torts.summer2": "*Pretend sweats*",
 "Torts.summer3": "*Munches on banana*",
 "Torts.summer6": "*Salivates*",
 "Torts.summer7": "*Gasps for water*",
 "Torts.summer10": "*Stares with passion*",
 "Torts.fall2": "*Plays in leaves*",
-"Torts.fall3": "*Munches on berry*",
+"Torts.fall3": "**",
 "Torts.fall5": "*Snorts leaves*",
-"Torts.fall7": "*Digs*",
 "Torts.winter2": "*Creepy smile*",
-"Torts.winter4": "*Stares boastfully*",
+"Torts.winter4": "**",
 "Torts.winter6": "*Munches on snow*",
   
 // Feel free to add more random dialogue. Just make sure to increase the numbers,
@@ -53,7 +52,12 @@
 "Torts.pre.twist.2": "*Bites*",
 "Torts.pre.twist.3": "*Sneezes*",
 "Torts.pre.twist.4": "*Bites*",
-"Torts.pre.twist.5": "*Digs*",
+"Torts.pre.twist.5": "*Munches on berry*",
+"Torts.pre.twist.6": "*Hiccup*",
+"Torts.pre.twist.7": "*Burps*",
+"Torts.pre.twist.8": "*Snorts*",
+"Torts.pre.twist.9": "%Torts is ignoring you",
+"Torts.pre.twist.10": "*Stares boastfully*",
 
 //Torts after 8 Heart (also after post twist)
 "Torts.after.friend1":"*Rolls ball towards you*",
@@ -61,7 +65,7 @@
 
 // Torts - post twist random dialogue
 "Torts.post.twist.1": "*Winks at you*",
-"Torts.post.twist.2": "*tuh-turt, tuh-turt*$h",
+"Torts.post.twist.2": "*Tuh-turt, tuh-turt*$h",
 "Torts.post.twist.3": "%Torts stares at you intensely",
 "Torts.post.twist.4": "*Tugs at your pants*",
 "Torts.post.twist.5": "%Torts is looking at a paper thats in some sort of language unknown to you.",
@@ -116,7 +120,7 @@
 // FTR, none of these dialogue keys are set in stone - if you want to make him like only Wumbus and react to everything else the same way,
 // we could keep just the three Wumbus keys and replace the rest with Torts.before.other, Torts.during.other, and Torts.after.other -
 // or however you want. All that matters is that the keys are named in a way that we both know what they mean/
-"Torts.movie.invite": "",
+"Torts.movie.invite": "*Tuh-turt, tuh-turt*$h",
 "Torts.before.sapling": "",
 "Torts.during.sapling": "",
 "Torts.after.sapling": "",
