@@ -29,29 +29,24 @@
 // Raf's Torts dialogue - feel free to keep or delete or change
 // We can also keep the seasonality if you want, just be sure to keep some kind
 // of signifier in the dialogue key along with pre/post twist
-"Torts.spring4": "**",
 "Torts.spring5": "*Inhales flowers*",
-"Torts.spring8": "**",
-"Torts.spring10": "**",
 "Torts.summer2": "*Pretend sweats*",
 "Torts.summer3": "*Munches on banana*",
-"Torts.summer6": "*Salivates*",
+"Torts.summer6": "**",
 "Torts.summer7": "*Gasps for water*",
 "Torts.summer10": "*Stares with passion*",
 "Torts.fall2": "*Plays in leaves*",
-"Torts.fall3": "**",
 "Torts.fall5": "*Snorts leaves*",
 "Torts.winter2": "*Creepy smile*",
-"Torts.winter4": "**",
 "Torts.winter6": "*Munches on snow*",
   
 // Feel free to add more random dialogue. Just make sure to increase the numbers,
 // and don't forget to keep the JSON formatting in tact. (commas, quotes, etc)
 // Torts - pre twist random dialogue
 "Torts.pre.twist.1": "*Turtle Noises*",
-"Torts.pre.twist.2": "*Bites*",
+"Torts.pre.twist.2": "*Bites*$a",
 "Torts.pre.twist.3": "*Sneezes*",
-"Torts.pre.twist.4": "*Bites*",
+"Torts.pre.twist.4": "*Salivates*",
 "Torts.pre.twist.5": "*Munches on berry*",
 "Torts.pre.twist.6": "*Hiccup*",
 "Torts.pre.twist.7": "*Burps*",
@@ -60,15 +55,20 @@
 "Torts.pre.twist.10": "*Stares boastfully*",
 
 //Torts after 8 Heart (also after post twist)
-"Torts.after.friend1":"*Rolls ball towards you*",
-"Torts.after.friend2":"*Begs for cuddles*",
+"Torts.after.friend1": "*Rolls ball towards you*",
+"Torts.after.friend2": "*Begs for cuddles*",
+"Torts.after.friend3": "*Tuh-turt, tuh-turt*$h",
 
 // Torts - post twist random dialogue
 "Torts.post.twist.1": "*Winks at you*",
-"Torts.post.twist.2": "*Tuh-turt, tuh-turt*$h",
+"Torts.post.twist.2": "*Smiles at you*",
 "Torts.post.twist.3": "%Torts stares at you intensely",
 "Torts.post.twist.4": "*Tugs at your pants*",
 "Torts.post.twist.5": "%Torts is looking at a paper thats in some sort of language unknown to you.",
+"Torts.post.twist.6": "%Torts seems to be meditating",
+"Torts.post.twist.7": "*Watches the Town*",
+"Torts.post.twist.8": "%Torts is fishing litter out of his pond",
+
 
 // Torts - visit realm (I assume this will be random as well?)
 "Torts.visit.realm.1": "Welcome @.#$e#It is always a pleasure to see you",
@@ -76,7 +76,11 @@
 "Torts.visit.realm.3": "It seems the wizard has had some interest in me, he may be able to tell that I'm no mere tortoise.",
 "Torts.visit.realm.4": "There are more creatures like me out there.#$e#Ones that are either too afraid to show themselves or think its best not to.",
 "Torts.visit.realm.5": "I have seen what you have done for both the spirits and the elves @.#$e#Only someone with a true compassion for everyone would do that, thank you.",
-
+"Torts.visit.realm.6": "It is sad to see the way some humans treat the Earth.#$e#It is only because of her that they have their life and all of its joys.",
+"Torts.visit.realm.7": "You humans are some of the most restless creatures out there, you must learn to just be at peace and enjoy the life given to you before its too late.",
+"Torts.visit.realm.8": "You know @, once there used to be more people who knew my true identity but tried to abuse my abilities for their own gain.#$e#So I decided to distance myself away from humanities affairs.$s",
+"Torts.visit.realm.9": "Life in the valley wasn't always as easy as it is now. When the valley first came to be, the winters were especially ruthless, many didn't make it back then.",
+ 
 
 // Resort dialogue (these are needed for when he visits the Ginger Island resort)
 "Torts.enter.resort": "*Enjoys weather*",
