@@ -43,7 +43,7 @@ at all.
 - 2 Hearts: Keahi and Trinnie are trying to feed him but he doesn't want to eat any human food they give him, until he accepts the
 soup
 
-- 4 Hearts: (Idk maybe could just be hanging out with him, playing with a ball or such)
+- 4 Hearts: (You notice Torts is angry, after investigating you see there is litter in his pond, you help him)
 
 - 6 Hearts: Torts is found stuck (maybe flipped upside down) somewhere it wouldn't make sense for him to be, maybe the ridge mountain
 or the hiking trail. (Pelican Town Cable Car Stop?)
