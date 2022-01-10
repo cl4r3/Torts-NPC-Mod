@@ -3,16 +3,31 @@
 
 **Setting:** Ridgeside Village / **Time:** 12-4 PM, Saturday or Sunday / **Weather:** Sunny
 
-*The farmer enters the village from the Cliff. Trinnie and Keahi are standing by the town map. (So same area where Keahi's 2 heart even takes place.)*
+*Yuuma is leaving his house as the farmer passes.*
 
-Keahi: Hi farmer @!
+Yuuma: Ah, hello @.
 
-*Farmer does ? emote.*
+*Farmer does the normal smiley response emote.*
 
-*Trinnie moves forward one space, does music note emote.*
+*...from the ol yuuma, then it turns to the !*
 
-Trinnie: Guess what we found!
+Yuuma: Um...are you busy right now? Theres something I would like to show you.
 
-And so on...
-Here's the event data wiki page, so you can see all the stuff that's possible to do during events: https://stardewvalleywiki.com/Modding:Event_data
-Some important stuff to note is that you can change locations, both within maps and to other maps. Like in this example event, we could change from the entrance to the village to Torts' doghouse.
+*Music note emote*
+
+*Scene cuts and youre at torts pond with torts*
+
+Yuuma: @, I would like you to meet Torts.
+
+%Torts stares at you for a second then turns away and returns to his business
+
+Yuuma: Apparently he's been here for a long time, Miss Lenny said he has been here since before she arrived.
+
+*! coming from the farmer*
+
+Yuuma: He doesn't seem to care much for most people, but I still don't want him to be lonely.
+
+Yuuma: Hopefully you can become his friend also!
+
+*Happy emotion then end the scene*
+
