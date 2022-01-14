@@ -35,11 +35,11 @@ Yuuma: Hopefully you can become his friend also!
 
 # Alternate Version: Yuuma, Shiro, and Philip
 
-**Conditions:** same as above, maybe not winter:
+**Conditions:** same as above, maybe not winter/
 
 *Yuuma is playing with Torts outside his house. Shiro and Philip are watching.*
 
-*The farmer walks into the scene down the stairs south of Jeric's farm (or potentially the path south of Torts' pond, depending on which fits into frame better) when Philip spots them.
+*The farmer walks into the scene down the stairs south of Jeric's farm (or potentially the path south of Torts' pond, depending on which fits into frame better) when Philip spots them.*
 
 Philip: Hello there, sir/ma'am!
 
