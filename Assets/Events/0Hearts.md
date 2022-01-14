@@ -33,7 +33,9 @@ Yuuma: Hopefully you can become his friend also!
 
 
 
-# Alternate Version: Yuuma, Shiro, and Philip / Same conditions as above, maybe not winter?
+# Alternate Version: Yuuma, Shiro, and Philip
+
+**Conditions:** same as above, maybe not winter:
 
 *Yuuma is playing with Torts outside his house. Shiro and Philip are watching.*
 
