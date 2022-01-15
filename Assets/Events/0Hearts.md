@@ -41,7 +41,7 @@ Shiro: ...Why does that feel like an insult?
 
 *Philip laughs*
 
-*Torts comes closer to the farmer and stares at them even more intently, then suddenly retreats into his shell. Farmer does ! emote.*
+*Torts comes closer to the farmer and stares at them even more intently, snorts then walks away. Farmer does ! emote.*
 
 Yuuma: There, there, Torts.
 
