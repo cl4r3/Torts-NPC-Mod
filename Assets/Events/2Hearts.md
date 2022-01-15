@@ -51,14 +51,16 @@ Keahi: Yeah, thanks @!
 Trinnie: Hi Mister/Miss @! Sorry to bother you but can you help us with something?
 
 *//Non-winter version*
-Keahi: Yeah! Can you give us some crops from your farm?
 
-Trinnie: We're gonna give Torts a yummy healthy snack!
+  Keahi: Yeah! Can you give us some crops from your farm?
+
+  Trinnie: We're gonna give Torts a yummy healthy snack!
 
 *//Winter version*
-Keahi: Yeah! Can you give us some food from your pantry?
 
-Trinnie: We're gonna give Torts a nice treat since there isn't any grass to munch on.
+  Keahi: Yeah! Can you give us some food from your pantry?
+
+  Trinnie: We're gonna give Torts a nice treat since there isn't any grass to munch on.
 
 *//End of seasonal variation*
 
