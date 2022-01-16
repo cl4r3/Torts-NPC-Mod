@@ -1,0 +1,17 @@
+{
+"Changes": [
+  {
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Torts",
+   "Entries": {
+  	"Mon": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Tue": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Wed": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Thu": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Fri": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Sat": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+  	"Sun": "{{i18n:normal.{{Random: 1, 2, 3, 4, 5, 6, 7, 8, 9}}}}",
+    },
+	}
+]
+}

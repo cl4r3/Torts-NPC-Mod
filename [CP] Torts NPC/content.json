@@ -1,0 +1,74 @@
+{
+  "Format": "1.24.0",
+
+  "Changes": [
+
+        //---Basic NPC stuff---//
+    {
+      "LogName": "Torts Disposition",
+      "Action": "Include",
+      "FromFile": "Data/NPCData/Disposition.json"
+    },
+    {
+      "LogName": "Torts Gift Tastes",
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "When": { "HasMod": "spacechase0.JsonAssets" },
+      "Entries": {
+          "Torts": "{{i18n:gift.love}}/107 910 454/{{i18n:gift.like}}/218 872 203 119 578 {{spacechase0.JsonAssets/ObjectId:Pale Candelabrum}} {{spacechase0.JsonAssets/ObjectId:Village Hero Sculpture}} {{spacechase0.JsonAssets/ObjectId:Everfrost Stone}} {{spacechase0.JsonAssets/ObjectId:Ancient Music Box}}/{{i18n:gift.dislike}}/797 -2 -4 -5 -6 -7 -12 -17 -23 -75 -79 -80 -81/{{i18n:gift.hate}}/446 -15 -26 -27/{{i18n:gift.neutral}}/199 219 236 456/ "
+      }
+    },
+    {
+      "LogName": "Torts Sprites",
+      "Action": "Load",
+      "Target": "Characters/Torts",
+      "FromFile": "Assets/Images/{{TargetWithoutPath}}_sprite.png"
+    },
+    {
+      "LogName": "Torts Portraits",
+      "Action": "Load",
+      "Target": "Portraits/Torts",
+      "FromFile": "Assets/Images/{{TargetWithoutPath}}_portrait.png"
+    },
+
+        //---Dialogue---//
+    {
+      "LogName": "Create Torts Dialogue",
+     	"Action": "Load",
+     	"Target": "Characters/Dialogue/Torts",
+     	"FromFile": "Data/EmptyJson.json"
+    },
+    {
+      "LogName": "Include Torts Dialogue",
+      "Action": "Include",
+      "FromFile": "Assets/Dialogue/RegularDialogue.json"
+    },
+
+        //---Misc NPC Content---//
+    {
+      "LogName": "Torts Schedule",
+      "Action": "Load",
+      "Target": "Characters/schedules/Torts",
+      "FromFile": "Data/NPCData/Schedule.json",
+    },
+    {
+      "LogName": "Torts Custom NPC Exclusions",
+      "Action": "EditData",
+      "Target": "Data/CustomNPCExclusions",
+      "Entries": {
+        "Torts": "All"
+        }
+    },
+
+        //---Remove CC Spawn---//
+    {
+  		"LogName": "Torts - Remove CC version",
+  		"Action": "Include",
+  		"FromFile": "Data/MapData/ConversionData.json",
+      "When": {
+        "HasMod": "Rafseazz.RSVCP"
+      }
+    }
+
+  ]
+}

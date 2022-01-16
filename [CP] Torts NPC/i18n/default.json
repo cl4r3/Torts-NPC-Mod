@@ -1,0 +1,125 @@
+{
+//------------------
+// Disposition stuff
+//------------------
+  "i18n.name": "Torts",
+  "gift.love": "*Wiggles*",
+  "gift.like": "*Smiles*",
+  "gift.neutral": "*Slurps soup*",
+  "gift.dislike": "%Torts kicks your gift away.",
+  "gift.hate": "*Hiss hiss*",
+
+//-----------------
+// Regular dialogue
+//-----------------
+  "normal.1": "*Turtle Noises*",
+  "normal.2": "*Bites*$a",
+  "normal.3": "*Sneezes*",
+  "normal.4": "*Salivates*",
+  "normal.5": "*Munches on berry*",
+  "normal.6": "*Hiccup*",
+  "normal.7": "*Burps*",
+  "normal.8": "*Snorts*",
+  "normal.9": "*Stares boastfully*",
+
+//-------------------
+// Pre-twist dialogue
+//-------------------
+  "normal.1": "%Torts is ignoring you",
+
+//-------------------
+// After Eight hearts
+//-------------------
+  "friend.1": "*Rolls ball towards you*",
+  "friend.2": "*Begs for cuddles*",
+  "friend.3": "*Tuh-turt, tuh-turt*$h",
+
+//--------------------
+// Post-twist dialogue
+//--------------------
+  "post.twist.1": "*Winks at you*",
+  "post.twist.2": "*Smiles at you*",
+  "post.twist.3": "%Torts stares at you intensely",
+  "post.twist.4": "*Tugs at your pants*",
+  "post.twist.5": "%Torts is looking at a paper thats in some sort of language unknown to you.",
+  "post.twist.6": "%Torts seems to be meditating",
+  "post.twist.7": "*Watches the Town*",
+  "post.twist.8": "%Torts is fishing litter out of his pond",
+
+//---------------
+// Realm dialogue
+//---------------
+  "realm.1": "Welcome @.#$e#It is always a pleasure to see you",
+  "realm.2": "This valley has changed much since its creation but no matter how much time passes it has always felt the same.",
+  "realm.3": "It seems the wizard has had some interest in me, he may be able to tell that I'm no mere tortoise.",
+  "realm.4": "There are more creatures like me out there.#$e#Ones that are either too afraid to show themselves or think its best not to.",
+  "realm.5": "I have seen what you have done for both the spirits and the elves @.#$e#Only someone with a true compassion for everyone would do that, thank you.",
+  "realm.6": "It is sad to see the way some humans treat the Earth.#$e#It is only because of her that they have their life and all of its joys.",
+  "realm.7": "You humans are some of the most restless creatures out there, you must learn to just be at peace and enjoy the life given to you before its too late.",
+  "realm.8": "You know @, once there used to be more people who knew my true identity but tried to abuse my abilities for their own gain.#$e#So I decided to distance myself away from humanities affairs.$s",
+  "realm.9": "Life in the valley wasn't always as easy as it is now. When the valley first came to be, the winters were especially ruthless, many didn't make it back then.",
+
+//---------------
+// Event dialogue
+//---------------
+
+  // Zero hearts
+
+  // Two hearts
+
+  // Four hearts
+
+  // Six hearts
+
+  // Seven hearts
+
+  // Eight hearts
+
+  // Ten hearts
+
+
+//------------------
+// Festival dialogue
+//------------------
+  "fair.0": "*Hides in shell*",
+  "gathering.0": "*Tries to sell you leaves*",
+  "spiritseve.0": "*Looks for a sai*",
+  "fishing.0": "*Makes snow turtle-angel*",
+  "fishing.1": "%Torts is slipping around on the ice",
+  "nightmarket.0": "", // Does he go to this?
+  "winterstar.0": "*Sings a merry song*$h",
+  "ember.0": "*Demands a scarf*",
+  "egghunt.0": "*Stares angrily at eggs*$a",
+  "egghunt.1": "*Nudges you*",
+  "dance.0": "*Tries to eat the flower decorations*",
+  "luau.0": "*Splashes around in the water*$h",
+  "jellies.0": "*Stares in silence*",
+
+//----------------
+// Resort dialogue
+//----------------
+  "resort.enter": "*Enjoys weather*",
+  "resort.beach": "*Sunbathes intensely*",
+  "resort.shore": "%Torts is failing to build a sandcastle",
+  "resort.leave": "*Yawns*",
+
+//--------------------
+// Conversation Topics
+//--------------------
+  "keahi_prank.0": "",
+
+//---------------
+//Movie Reactions
+//---------------
+  "movie.invite": "*Tuh-turt, tuh-turt*$h",
+
+//------------
+// Map Strings
+//------------
+
+//--------------
+// Miscellaneous
+//--------------
+  "error.0": "If you see this, please write a bug report on the mod page!",
+
+}

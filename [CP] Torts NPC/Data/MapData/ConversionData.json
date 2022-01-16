@@ -1,0 +1,18 @@
+{
+"Changes": [
+		// Remove Torts CC spawn
+		{
+       "Action": "EditMap",
+       "Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+       "MapTiles": [
+          {
+             "Position": { "X": 57, "Y": 53 },
+             "Layer": "Back",
+             "SetProperties": {
+                "CustomCompanions": null
+             }
+          }
+       ]
+    }
+]
+}
