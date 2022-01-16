@@ -17,5 +17,5 @@ Torts: You gave back to the valley and treated it with such respect and compassi
 Torts: You truly are one of a kind and these are all reasons why I have come to trust you with the information of who I truly am. I hope you will keep it between us *Wink*
 Torts: Though this realm is only open right before the seasons change, you will always be welcome here. 
 Torts: I would be elevated to converse more with you, if you ever find that you have the time.
-Torts: Before you go, I would like to thank you for all that you have done for me and this valley @.
+Torts: Before you go, I would like to thank you for all that you have done for me and this valley @.`
 //Ends
