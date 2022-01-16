@@ -4,6 +4,7 @@
       "Action": "EditData",
       "Target": "Data/animationDescriptions",
       "Entries": {
+        "torts_sleep": "0/0/0",
       }
     }
   ]

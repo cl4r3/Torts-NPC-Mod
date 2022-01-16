@@ -46,6 +46,11 @@
 
         //---Misc NPC Content---//
     {
+      "LogName": "Torts Animations",
+      "Action": "Include",
+      "FromFile": "Data/NPCData/Animations.json"
+    },
+    {
       "LogName": "Torts Schedule",
       "Action": "Load",
       "Target": "Characters/schedules/Torts",
@@ -68,7 +73,17 @@
       "When": {
         "HasMod": "Rafseazz.RSVCP"
       }
-    }
+    },
+
+        //---Edit Map Strings---//
+    {
+  		"LogName": "Torts Map Strings",
+      "Action": "Include",
+  		"FromFile": "Data/MapData/MapStrings.json",
+      "When": {
+        "HasMod": "Rafseazz.RSVCP"
+      }
+    },
 
   ]
 }

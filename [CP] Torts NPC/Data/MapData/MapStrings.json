@@ -1,5 +1,23 @@
 {
 "Changes": [
-
+		// Clear doghouse text when Torts is asleep
+		{
+  		"LogName": "Torts Doghouse Text",
+      "Action": "EditMap",
+  		"Target": "Maps/Custom_Ridgeside_RidgesideVillage",
+			"Update": "OnTimeChange",
+      "When": {
+				"Time": "{{Range: 1900, 2600}}"
+      },
+			"MapTiles": [
+				 {
+						"Position": { "X": 57, "Y": 52 },
+						"Layer": "Buildings",
+						"SetProperties": {
+							 "Remove": "true"
+						}
+				 }
+			]
+    }
 ]
 }
