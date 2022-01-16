@@ -3,87 +3,75 @@
 
 	// Festivals
 	{
-		"LogName": "June SDV Fair Dialogue",
+		"LogName": "Torts SDV Fair Dialogue",
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall16",
 		"Entries": {
-			"June": "{{i18n:i18n.fair}}",
-			"June_spouse": "{{i18n:i18n.fair.spouse}}"
+			"Torts": "{{i18n:i18n.fair}}",
 		}
 	},
 	{
-		"LogName": "June Gathering Dialogue",
+		"LogName": "Torts Gathering Dialogue",
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall20",
 		"Entries": {
-			"June": "{{i18n:i18n.gathering}}",
-			"June_spouse": "{{i18n:i18n.gathering.spouse}}"
+			"Torts": "{{i18n:i18n.gathering}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall27",
 		"Entries": {
-			"June": "{{i18n:i18n.spiritseve}}",
-			"June_spouse": "{{i18n:i18n.spiritseve.spouse}}"
+			"Torts": "{{i18n:i18n.spiritseve}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter8",
 		"Entries": {
-			"June": "{{i18n:i18n.fishing}}",
-			"June_spouse": "{{i18n:i18n.fishing.spouse}}"
+			"Torts": "{{i18n:i18n.fishing}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter25",
 		"Entries": {
-			"June": "{{i18n:i18n.winterstar}}",
-			"June_spouse": "{{i18n:i18n.winterstar.spouse}}"
+			"Torts": "{{i18n:i18n.winterstar}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter28",
 		"Entries": {
-			"June": "{{i18n:i18n.ember}}",
-			"June_spouse": "{{i18n:i18n.ember.spouse}}"
+			"Torts": "{{i18n:i18n.ember}}",
 		}
 	},
-
-	// Festivals June can only attend when married
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/spring13",
 		"Entries": {
-			"June": "{{i18n:i18n.error}}",
-			"June_spouse": "{{i18n:i18n.egghunt.spouse}}"
+			"Torts": "{{i18n:i18n.error}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/spring24",
 		"Entries": {
-			"June": "{{i18n:i18n.error}}",
-			"June_spouse": "{{i18n:i18n.dance.spouse}}"
+			"Torts": "{{i18n:i18n.error}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/summer11",
 		"Entries": {
-			"June": "{{i18n:i18n.error}}",
-			"June_spouse": "{{i18n:i18n.luau.spouse}}"
+			"Torts": "{{i18n:i18n.error}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/summer28",
 		"Entries": {
-			"June": "{{i18n:i18n.error}}",
-			"June_spouse": "{{i18n:i18n.jellies.spouse}}"
+			"Torts": "{{i18n:i18n.error}}",
 		}
 	},
 

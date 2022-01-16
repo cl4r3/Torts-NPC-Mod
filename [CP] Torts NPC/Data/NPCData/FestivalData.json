@@ -1,9 +1,9 @@
 {
   "Changes": [
-    
+
     // Festivals
     {
-      "LogName": "June SDV Fair Location",
+      "LogName": "Torts SDV Fair Location",
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
@@ -11,32 +11,32 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 35 89 2",
+          "Value": "Torts 35 89 2",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June RSV Gathering Location",
+      "LogName": "Torts RSV Gathering Location",
       "Action": "EditData",
       "Target": "Data/Festivals/fall20",
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 85 42 3",
+          "Value": "Torts 85 42 3",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 78 41 0",
+          "Value": "Torts 78 41 0",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Spirit's Eve Location",
+      "LogName": "Torts Spirit's Eve Location",
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
@@ -44,13 +44,13 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 22 53 0",
+          "Value": "Torts 22 53 0",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Ice Festival Location",
+      "LogName": "Torts Ice Festival Location",
       "Action": "EditData",
       "Target": "Data/Festivals/winter8",
       "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
@@ -58,135 +58,135 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 52 36 3",
+          "Value": "Torts 52 36 3",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "Main-Event_additionalCharacters"],
-          "Value": "June 60 34 1",
+          "Value": "Torts 60 34 1",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Winter Star Location",
+      "LogName": "Torts Winter Star Location",
       "Action": "EditData",
       "Target": "Data/Festivals/winter25",
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 27 54 2",
+          "Value": "Torts 27 54 2",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Ember of Resolutions Location",
+      "LogName": "Torts Ember of Resolutions Location",
       "Action": "EditData",
       "Target": "Data/Festivals/winter28",
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 37 28 2",
+          "Value": "Torts 37 28 2",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 30 47 1",
+          "Value": "Torts 30 47 1",
           "Delimiter": "/"
         },
       ]
     },
 
-    // Festivals June can only attend when married
+    // Festivals Torts can only attend when married
     {
-      "LogName": "June Egg Fest Location",
+      "LogName": "Torts Egg Fest Location",
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "When": {
-        "Relationship:June |contains=Married": true
+        "Relationship:Torts |contains=Married": true
       },
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 23 65 1",
+          "Value": "Torts 23 65 1",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 23 65 1",
+          "Value": "Torts 23 65 1",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Flower Dance Location",
+      "LogName": "Torts Flower Dance Location",
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "When": {
-        "Relationship:June |contains=Married": true
+        "Relationship:Torts |contains=Married": true
       },
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 41 35 2",
+          "Value": "Torts 41 35 2",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 41 35 2",
+          "Value": "Torts 41 35 2",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Luau Location",
+      "LogName": "Torts Luau Location",
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "When": {
-        "Relationship:June |contains=Married": true
+        "Relationship:Torts |contains=Married": true
       },
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 14 4 2",
+          "Value": "Torts 14 4 2",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 37 6 2",
+          "Value": "Torts 37 6 2",
           "Delimiter": "/"
         },
       ]
     },
     {
-      "LogName": "June Midnight Jellies Location",
+      "LogName": "Torts Midnight Jellies Location",
       "Action": "EditData",
       "Target": "Data/Festivals/summer28",
       "When": {
-        "Relationship:June |contains=Married": true
+        "Relationship:Torts |contains=Married": true
       },
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "June 90 40 2",
+          "Value": "Torts 90 40 2",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "June 90 40 2",
+          "Value": "Torts 90 40 2",
           "Delimiter": "/"
         },
       ]

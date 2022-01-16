@@ -12,8 +12,8 @@
 	"Target": "Data/ConcessionTastes",
 	"Entries": {
 
-		"June": {
-			"Name": "June",
+		"Torts": {
+			"Name": "Torts",
 			"LovedTags": [ "Gourmet", "Hot", "Salty" ],
 			"LikedTags": [ "Sour", "Candy", "Sweet" ],
 			"DislikedTags": [ "Fatty", "Joja", "Healthy" ]
@@ -29,8 +29,8 @@
       "Target": "Data/MoviesReactions",
       "Entries": {
 
-        "June": {
-          "NPCName": "June",
+        "Torts": {
+          "NPCName": "Torts",
           "Reactions": [
             //Brave Little Sapling (ANIMATED) (FAMILY) (COMEDY)
             {
