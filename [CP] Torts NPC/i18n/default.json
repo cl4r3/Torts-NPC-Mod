@@ -25,7 +25,7 @@
 //-------------------
 // Pre-twist dialogue
 //-------------------
-  "normal.1": "%Torts is ignoring you",
+  "pre.twist.1": "%Torts is ignoring you",
 
 //-------------------
 // After Eight hearts
