@@ -1,4 +1,4 @@
-# Torts 8 Heart Event
+          # Torts 8 Heart Event
 Setting:Torts Pond
 Time: 12-6pm
 Weather: Clear Skies
@@ -18,4 +18,22 @@ Yuuma: I think he just doesn't trust people, I wonder why though?
 *Scene ends with more ball playing
 
 Idea 2 (Maybe something like Torts joins you while you run errands in town or like the farm)
+//Walking by in town when Torts call to you
+
+Torts: Turt!
+
+//Hit the :) emoji
+
+*You pet Torts on the head and keep walking*
+
+Torts: *Starts following you*
+
+*?*
+
+*Seems like Torts wants to hangout with you today*
+
+Torts: *Smiles*
+
+//So you keep walking, stop by one of the shops in Ridgeside*
+
 
