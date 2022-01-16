@@ -1,0 +1,79 @@
+{
+"Changes": [
+
+	// Festivals
+	{
+		"LogName": "Torts SDV Fair Dialogue",
+		"Action": "EditData",
+		"Target": "Data/Festivals/fall16",
+		"Entries": {
+			"Torts": "{{i18n:i18n.fair}}",
+		}
+	},
+	{
+		"LogName": "Torts Gathering Dialogue",
+		"Action": "EditData",
+		"Target": "Data/Festivals/fall20",
+		"Entries": {
+			"Torts": "{{i18n:i18n.gathering}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/fall27",
+		"Entries": {
+			"Torts": "{{i18n:i18n.spiritseve}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/winter8",
+		"Entries": {
+			"Torts": "{{i18n:i18n.fishing}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/winter25",
+		"Entries": {
+			"Torts": "{{i18n:i18n.winterstar}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/winter28",
+		"Entries": {
+			"Torts": "{{i18n:i18n.ember}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/spring13",
+		"Entries": {
+			"Torts": "{{i18n:i18n.error}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/spring24",
+		"Entries": {
+			"Torts": "{{i18n:i18n.error}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/summer11",
+		"Entries": {
+			"Torts": "{{i18n:i18n.error}}",
+		}
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Festivals/summer28",
+		"Entries": {
+			"Torts": "{{i18n:i18n.error}}",
+		}
+	},
+
+]
+}

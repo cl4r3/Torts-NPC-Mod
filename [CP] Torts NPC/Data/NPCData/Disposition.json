@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "data/NPCDispositions",
+      "Entries": {
+        "Torts": "adult/neutral/neutral/neutral/male/non-datable/null/Other/null//Custom_Ridgeside_RidgesideVillage 57 53/{{i18n:i18n.name}}"
+      }
+    }
+  ]
+}

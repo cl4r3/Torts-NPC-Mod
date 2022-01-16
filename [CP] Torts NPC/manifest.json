@@ -1,0 +1,29 @@
+{
+  "Name": "Torts NPC Mod",
+  "Author": "ch20youk",
+  "Description": "Converts Torts from Ridgeside Village into NPC",
+  "Version": "1.0",
+  "UniqueID": "ch20youk.TortsNPC",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Rafseazz.RSVCP",
+      "IsRequired": true,
+      "MinimumVersion": "2.0.0"
+    },
+    {
+      "UniqueID": "spacechase0.JsonAssets",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "spacechase0.CustomNPCFixes",
+      "IsRequired": true
+    },
+    {
+       "UniqueID": "Platonymous.TMXLoader",
+       "IsRequired": true,
+    },
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "Changes": [
+
+    // Festivals
+    {
+      "LogName": "Torts SDV Fair Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 35 89 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts RSV Gathering Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall20",
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 85 42 3",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 78 41 0",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Spirit's Eve Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 22 53 0",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Ice Festival Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "When": { "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 52 36 3",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Main-Event_additionalCharacters"],
+          "Value": "Torts 60 34 1",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Winter Star Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 27 54 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Ember of Resolutions Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter28",
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 37 28 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 30 47 1",
+          "Delimiter": "/"
+        },
+      ]
+    },
+
+    // Festivals Torts can only attend when married
+    {
+      "LogName": "Torts Egg Fest Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring13",
+      "When": {
+        "Relationship:Torts |contains=Married": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 23 65 1",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 23 65 1",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Flower Dance Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "When": {
+        "Relationship:Torts |contains=Married": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 41 35 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 41 35 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Luau Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer11",
+      "When": {
+        "Relationship:Torts |contains=Married": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 14 4 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 37 6 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    {
+      "LogName": "Torts Midnight Jellies Location",
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "When": {
+        "Relationship:Torts |contains=Married": true
+      },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 90 40 2",
+          "Delimiter": "/"
+        },
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "MainEvent_additionalCharacters"],
+          "Value": "Torts 90 40 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+  ]
+}
