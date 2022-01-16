@@ -51,11 +51,17 @@ Keahi: Yeah, thanks @!
 Trinnie: Hi Mister/Miss @! Sorry to bother you but can you help us with something?
 
 *//Non-winter version*
-Keahi: Yeah! Can you give us some crops from your farm?
-Trinnie: We're gonna give Torts a yummy healthy snack!
+
+  Keahi: Yeah! Can you give us some crops from your farm?
+
+  Trinnie: We're gonna give Torts a yummy healthy snack!
+
 *//Winter version*
-Keahi: Yeah! Can you give us some food from your pantry?
-Trinnie: We're gonna give Torts a nice treat since there isn't any grass to munch on.
+
+  Keahi: Yeah! Can you give us some food from your pantry?
+
+  Trinnie: We're gonna give Torts a nice treat since there isn't any grass to munch on.
+
 *//End of seasonal variation*
 
 Keahi: Yeah! So do you have anything you can give us?
@@ -72,7 +78,7 @@ Trinnie: Do you wanna come with us to see how it goes?
 
 *Cut to Torts' pond. Trinnie and Keahi are near Torts while the farmer watches from slightly farther back.*
 
-Trinnie: Okay Torts, here you go! Nice yummy leafy greens fresh from %farm farm! *//Winter version* Some nice pickled vegetables from %farm farm!
+Trinnie: Okay Torts, here you go! Nice yummy leafy greens fresh from %farm farm! *//Winter version:* Some nice pickled vegetables from %farm farm!
 
 *Torts begrudgingly takes a single bite but leaves the rest untouched.*
 
@@ -151,7 +157,7 @@ Keahi: My dad made it so it'll be super good, I promise!
 
 Keahi: Hey! He's actually eating it!
 
-Trinnie: Hurray! We finally found something he doesn't hate! *//For Tom Kha soup* Yeah! It seems like he actually kinda likes it!
+Trinnie: Hurray! We finally found something he doesn't hate! *//For Tom Kha soup:* Yeah! It seems like he actually kinda likes it!
 
 Keahi: We did it! Thanks, dad!
 
