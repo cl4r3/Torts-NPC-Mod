@@ -1,13 +1,32 @@
 # Torts 4 Heart Event
 Setting:Torts Pond
-Time:2pm-6pm
-Weather:Rain
+Time:6am-6pm
+Weather:Any
 
-//Starts with you walking by torts pond and notice him angry looking at pond
-Torts:"*Hiss*$a"
-//You character hits the hard ? and walks over
-"%Torts is angrily staring at his pond.#$e#You notice someone decided to throw their trash in there"
-"%Torts starts to drag the trash out of his pond, you decide to give him a hand"
-//After some time passes the pond is clean
-Torts: "Tuh-turt!$h"
-"%Torts seems to be much happier now"
+//Walking past the pond and you notice its TRASHED, stuff everywhere
+
+*!*
+
+%Who could've made a mess like this?
+
+//Torts leaves his dog house
+
+*Does the weird angry emote*
+
+Torts: *Snorts angrily and stomps his feet*
+
+%Torts starts pulling the trash out of his pond.
+
+//The farmer then walks up and decides to start helping
+
+Torts: *Stares at you for a while*
+
+Torts: *Continues to clean up*
+
+//Fades to black 
+
+% We continued to clean the rest of the trash for a little while.
+
+//Scene Ends?? 
+
+
