@@ -22,7 +22,7 @@ Question box: (What should I do?)
 
 *Farmer does ? emote*
 
-%Torts doesn't respond, because he is a tortoise, and thus incapable of higher-order language.
+%Torts doesn't respond, because he is a tortoise, and thus incapable of higher-level language.
 
 *Question repeats without first option.*
 
