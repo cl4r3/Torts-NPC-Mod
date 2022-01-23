@@ -15,7 +15,7 @@ Torts: *Snorts angrily and stomps his feet*
 
 Question box: (Maybe he needs some help?)
 
-**- Help Torts clean up the trash. (+50)**
+- **Help Torts clean up the trash. (+50)**
 
 - Move along.
 
@@ -45,7 +45,7 @@ Question box: (Maybe he needs some help?)
 
 - Help Torts clean up the trash.
 
-**- Move along. (-200)**
+- **Move along. (-200)**
 
 *The farmer continues walking in the direction they were headed.*
 
