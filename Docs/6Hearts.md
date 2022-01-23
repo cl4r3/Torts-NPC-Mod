@@ -1,24 +1,49 @@
 # Torts 6 Heart Event
-Setting: Ridgeside Falls
-Time:4pm-6pm
-Weather: Any
+
+Setting: Ridgeside Falls / Time: 4pm-6pm / Weather: Any
 
 //Walk in the club and notice Torts is flipped upside down
 
-*!*
+*Farmer does ! emote, walks a bit closer*
 
 Torts: *Struggles*
 
 Torts: *More struggling*
 
-Torts: *Struggling Intesifies*
+Torts: *Struggling intensifies*
 
-//Farmer walks over and flips Torts
+Question box: (What should I do?)
 
-Torts: *Smiles then quickly runs away*
+- **Ask Torts what happened.**
 
-*?*
+- Flip Torts over.
 
-//Cuts to black screen then a text box shows up
+- Wait to see if he flips over on his own.
 
-*What was Torts doing all the way over here?*
+*Farmer does ? emote*
+
+%Torts doesn't respond, because he is a tortoise, and thus incapable of higher-order language.
+
+*Question repeats without first option.*
+
+- **Flip Torts over. (+25)**
+
+*Farmer walks over and flips Torts.*
+
+// OR //
+
+- **Wait to see if he flips over on his own. (-100)**
+
+*Torts struggles some more, then rights himself.*
+
+// The two routes unify from here. //
+
+Torts: ...
+
+*Torts suddenly runs away*
+
+*Farmer does ! emote and turns to face the direction he leaves in*
+
+*Fade out*
+
+%How did Torts end up all the way out here...?
