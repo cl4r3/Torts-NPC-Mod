@@ -3,7 +3,7 @@ Setting: *Your house*
 Time: *6am-8pm* (Leaving your house)
 Weather: Clear (Any season could work but honestly Winter may be the best one*
 
-//Part 1: Starts with Trinnie and Keahi coming to the farmers door
+//Part 1: Starts with Trinnie and Keahi coming up to the Farmer at the bus stop
 Trinnie: Hi Mr/Mrs @! Sorry to bother you but can you help us with something?
 Keahi: Yeah! Do you know what Turtles eat?
 *Farmer goes ?*
