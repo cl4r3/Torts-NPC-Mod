@@ -86,12 +86,12 @@
   "spiritseve.0": "*Looks for a sai*",
   "fishing.0": "*Makes snow turtle-angel*",
   "fishing.1": "%Torts is slipping around on the ice",
-  "nightmarket.0": "", // Does he go to this?
+  "nightmarket.0": "*%Torts is having a stare off with the pig*", // Does he go to this?
   "winterstar.0": "*Sings a merry song*$h",
   "ember.0": "*Demands a scarf*",
   "egghunt.0": "*Stares angrily at eggs*$a",
   "egghunt.1": "*Nudges you*",
-  "dance.0": "*Tries to eat the flower decorations*",
+  "dance.0": "%Torts is trying to eat the flower decorations",
   "luau.0": "*Splashes around in the water*$h",
   "jellies.0": "*Stares in silence*",
 
