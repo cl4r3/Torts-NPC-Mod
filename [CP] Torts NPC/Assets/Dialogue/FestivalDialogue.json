@@ -7,7 +7,7 @@
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall16",
 		"Entries": {
-			"Torts": "{{i18n:i18n.fair}}",
+			"Torts": "{{i18n:fair.0}}",
 		}
 	},
 	{
@@ -15,63 +15,63 @@
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall20",
 		"Entries": {
-			"Torts": "{{i18n:i18n.gathering}}",
+			"Torts": "{{i18n:gathering.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/fall27",
 		"Entries": {
-			"Torts": "{{i18n:i18n.spiritseve}}",
+			"Torts": "{{i18n:spiritseve.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter8",
 		"Entries": {
-			"Torts": "{{i18n:i18n.fishing}}",
+			"Torts": "{{i18n:fishing.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter25",
 		"Entries": {
-			"Torts": "{{i18n:i18n.winterstar}}",
+			"Torts": "{{i18n:winterstar.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/winter28",
 		"Entries": {
-			"Torts": "{{i18n:i18n.ember}}",
+			"Torts": "{{i18n:ember.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/spring13",
 		"Entries": {
-			"Torts": "{{i18n:i18n.error}}",
+			"Torts": "{{i18n:egghunt.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/spring24",
 		"Entries": {
-			"Torts": "{{i18n:i18n.error}}",
+			"Torts": "{{i18n:dance.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/summer11",
 		"Entries": {
-			"Torts": "{{i18n:i18n.error}}",
+			"Torts": "{{i18n:luau.0}}",
 		}
 	},
 	{
 		"Action": "EditData",
 		"Target": "Data/Festivals/summer28",
 		"Entries": {
-			"Torts": "{{i18n:i18n.error}}",
+			"Torts": "{{i18n:jellies.0}}",
 		}
 	},
 

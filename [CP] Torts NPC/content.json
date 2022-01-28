@@ -43,6 +43,11 @@
       "Action": "Include",
       "FromFile": "Assets/Dialogue/RegularDialogue.json"
     },
+    {
+      "LogName": "Torts Festival Dialogue",
+      "Action": "Include",
+      "FromFile": "Assets/Dialogue/FestivalDialogue.json"
+    },
 
         //---Misc NPC Content---//
     {
@@ -63,6 +68,11 @@
       "Entries": {
         "Torts": "All"
         }
+    },
+    {
+      "LogName": "Torts Festival Locations",
+      "Action": "Include",
+      "FromFile": "Data/NPCData/FestivalData.json"
     },
 
         //---Remove CC Spawn---//
