@@ -44,7 +44,7 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 27 53 2",
+          "Value": "Torts 27 52 3",
           "Delimiter": "/"
         },
       ]
@@ -108,7 +108,7 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 21 79 3",
+          "Value": "Torts 20 78 3",
           "Delimiter": "/"
         },
         {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "LogName": "Torts Flower Dance Location",
+      "LogName": "Torts RSV Flower Dance Location",
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "TextOperations": [
@@ -146,7 +146,7 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 22 21 2",
+          "Value": "Torts 24 21 2",
           "Delimiter": "/"
         },
         {
@@ -176,6 +176,7 @@
         },
       ]
     },
+    
     // SVE version
     {
       "LogName": "Torts SDV Fair Location - SVE",
@@ -192,18 +193,33 @@
       ]
     },
     {
-      "LogName": "Torts Spirit's Eve Location - SVE",
+      "LogName": "Torts Spirit's Eve Location - SVE var 1",
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
-      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" },
+      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP", "IsOddYear": true },
       "TextOperations": [
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 30 78 3",
+          "Value": "Torts 24 74 1",
           "Delimiter": "/"
         },
       ]
     },
+    {
+      "LogName": "Torts Spirit's Eve Location - SVE var 2",
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP", "IsOddYear": false },
+      "TextOperations": [
+        {
+          "Operation": "Append",
+          "Target": ["Entries", "Set-Up_additionalCharacters"],
+          "Value": "Torts 73 36 2",
+          "Delimiter": "/"
+        },
+      ]
+    },
+    
   ]
 }
