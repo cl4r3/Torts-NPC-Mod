@@ -82,13 +82,13 @@
 // Festival dialogue
 //------------------
   "fair.0": "*Hides in shell*",
-  "gathering.0": "*Tries to sell you leaves*",
+  "gathering.0": "*Tries to sell you some leaves and berries*",
   "spiritseve.0": "*Looks for a sai*",
   "fishing.0": "*Makes snow turtle-angel*",
   "fishing.1": "%Torts is slipping around on the ice",
   "winterstar.0": "*Sings a merry song*$h",
   "ember.0": "*Demands a scarf*",
-  "egghunt.0": "*Stares angrily at eggs*$a",
+  "egghunt.0": "*Stares angrily at the eggs*$a",
   "egghunt.1": "*Nudges you*",
   "dance.0": "%Torts is trying to eat the flower decorations",
   "luau.0": "*Splashes around in the water*$h",
