@@ -1,5 +1,12 @@
 {
   "Format": "1.24.0",
+  
+  "DynamicTokens": [
+    {
+			"Name": "IsOddYear",
+			"Value": "{{Query: {{Year}} % 2 = 1}}"
+		},
+   ],
 
   "Changes": [
 
