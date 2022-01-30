@@ -165,13 +165,13 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 66 25 2",
+          "Value": "Torts 67 25 2",
           "Delimiter": "/"
         },
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "Torts 66 25 2",
+          "Value": "Torts 67 25 2",
           "Delimiter": "/"
         },
       ]
