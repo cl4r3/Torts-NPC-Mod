@@ -152,7 +152,7 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "MainEvent_additionalCharacters"],
-          "Value": "Torts 22 21 2",
+          "Value": "Torts 24 21 2",
           "Delimiter": "/"
         },
       ]
