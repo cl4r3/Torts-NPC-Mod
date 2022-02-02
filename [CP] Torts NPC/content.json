@@ -1,6 +1,6 @@
 {
   "Format": "1.24.0",
-  
+
   "DynamicTokens": [
     {
 			"Name": "IsOddYear",
@@ -51,6 +51,11 @@
       "FromFile": "Assets/Dialogue/RegularDialogue.json"
     },
     {
+      "LogName": "Include Torts Extra Dialogue",
+      "Action": "Include",
+      "FromFile": "Assets/Dialogue/ExtraDialogue.json"
+    },
+    {
       "LogName": "Torts Festival Dialogue",
       "Action": "Include",
       "FromFile": "Assets/Dialogue/FestivalDialogue.json"
@@ -80,6 +85,11 @@
       "LogName": "Torts Festival Locations",
       "Action": "Include",
       "FromFile": "Data/NPCData/FestivalData.json"
+    },
+    {
+      "LogName": "Torts Events",
+      "Action": "Include",
+      "FromFile": "Assets/Events/Zero_Heart.json"
     },
 
         //---Remove CC Spawn---//

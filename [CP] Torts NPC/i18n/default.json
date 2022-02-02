@@ -64,6 +64,26 @@
 //---------------
 
   // Zero hearts
+  "zero_heart.1": "Hello there, sir!^Hello there, ma'am!",
+  "zero_heart.2": "Oh, hi, @! Beautiful day, huh?$1#$b#If you're not too busy, would you like to come join us for a bit?$1",
+  "zero_heart.3": "Sure!",
+  "zero_heart.4": "Sorry, I don't really have time.",
+  "zero_heart.5": "Great, come on over!$1",
+  "zero_heart.6": "*whispers* Hey, um, would you mind trying to play with Yuuma a bit? He can be a bit shy, but I think it'd mean a lot to him to have someone else join.",
+  "zero_heart.7": "...Hello.",
+  "zero_heart.8": "Yuuma, why don't you introduce @ to your friend?$1",
+  "zero_heart.9": "...Okay.#$b#Um... This guy is named Torts.#$b#He's a Calico Ridgeback Tortoise and he eats mostly leaves and fruits.#$b#Since he doesn't have an owner, Ms. Lenny asked me and the other kids to help take care of him.#$b#She says he's so old that he lived in this town even when she moved here.#$b#Did you know some species of giant tortoises can live to be over a hundred years old in the wild, and nearly two hundred years old in captivity?",
+  "zero_heart.10": "*stares at you*",
+  "zero_heart.11": "Torts isn't a giant tortoise though, so I don't think he's that old. But I think he's at least older than my parents.#$b#Definitely older than Shiro.",
+  "zero_heart.12": "Why does that feel like an insult...?$2",
+  "zero_heart.13": "Pfft!",
+  "zero_heart.14": "*snorts*",
+  "zero_heart.15": "There there, Torts.",
+  "zero_heart.16": "Don't be offended. Torts can be a bit distrustful around strangers. But just give him time.",
+  "zero_heart.17": "Well, a lot of time. He is a tortoise, after all.",
+  "zero_heart.18": "No worries! See you around.$1",
+  "zero_heart.19": "Have a good day, @!",
+
 
   // Two hearts
 
