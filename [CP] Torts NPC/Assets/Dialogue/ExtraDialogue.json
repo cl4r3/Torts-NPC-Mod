@@ -1,4 +1,13 @@
 {
 "Changes": [
+  {
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Shiro",
+   "Entries": {
+     // Zero heart event dialogue
+     "torts0_1": "{{i18n:zero_heart.5}}",
+     "torts0_2": "{{i18n:zero_heart.18}}",
+    },
+	}
 ]
 }

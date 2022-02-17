@@ -1,5 +1,12 @@
 {
   "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/Custom_Ridgeside_RidgesideVillage",
+      "Entries": {
+        "75160280/t 1200 1600/d Mon Tue Wed Thu Fri/w sunny/z winter": "playful/-1000 -1000/farmer 49 47 2 Philip 54 52 2 Shiro 55 52 2 Yuuma 56 53 2 Torts 57 54 3/removeTile 53 53 Buildings/removeTile 53 54 Buildings/positionOffset Yuuma 16 0/positionOffset Torts 0 -16/skippable/fade/viewport 53 52/move farmer 0 7 2 true/pause 1000/faceDirection Philip 3/emote Philip 16/speak Philip \"{{i18n:zero_heart.1}}\"/halt/pause 250/faceDirection farmer 1/faceDirection Shiro 3/speak Shiro \"{{i18n:zero_heart.2}}\"/speak Shiro \"$q 751602800 null#  #$r 751602801 0 torts0_1#{{i18n:zero_heart.3}}#$r 751602802 0 torts0_2#{{i18n:zero_heart.4}}\"/fork 751602802 TortsZeroLeave/emote farmer 56/pause 300/globalFade/viewport -1000 -1000/warp farmer 53 53/faceDirection Philip 2/faceDirection Shiro 2/faceDirection Torts 2/fade/viewport 56 54/pause 1500/speak Shiro \"{{i18n:zero_heart.6}}\"/emote farmer 32/move farmer 0 1 2/move farmer 2 0 1/speak Yuuma \"{{i18n:zero_heart.7}}\"/emote farmer 32/pause 300/emote Yuuma 40/pause 1000/speak Shiro \"{{i18n:zero_heart.8}}\"/emote farmer 8/speak Yuuma \"{{i18n:zero_heart.9}}\"/pause 200/faceDirection Torts 3/speak Torts \"{{i18n:zero_heart.10}}\"/speak Yuuma \"{{i18n:zero_heart.11}}\"/emote Shiro 16/speak Shiro \"{{i18n:zero_heart.12}}\"/textAboveHead Philip \"{{i18n:zero_heart.13}}\"/pause 1000/move Torts -1 0 3 true/pause 200/halt/pause 500/move Torts -1 0 3 true/pause 200/halt/emote Torts 40/pause 1000/textAboveHead Torts \"{{i18n:zero_heart.14}}\"/move Torts 2 0 1/emote farmer 16/faceDirection Yuuma 1/pause 500/speak Yuuma \"{{i18n:zero_heart.15}}\"/faceDirection Yuuma 3/speak Yuuma \"{{i18n:zero_heart.16}}\"/pause 500/speak Yuuma \"{{i18n:zero_heart.17}}\"/pause 300/faceDirection farmer 2/animate farmer false true 100 102 103/pause 500/emote Yuuma 8/emote Shiro 32/pause 700/globalFade/viewport -1000 -1000/end",
+        "TortsZeroLeave": "speak Philip \"{{i18n:zero_heart.19}}\"/pause 400/move farmer 0 8 2 true/faceDirection Shiro 2/faceDirection Philip 2/pause 500/globalFade/viewport -1000 -1000/end"
+      }
     }
   ]
 }
