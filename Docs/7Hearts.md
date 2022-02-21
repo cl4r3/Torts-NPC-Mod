@@ -11,6 +11,8 @@ Lenny: Oh, hey, @! Can I help you with anything?
 
 Lenny: Oh, you're just stopping by? Well, come on in! I could use someone to chat with. Can I get you tea or coffee or anything?
 
+*(Farmer has option to stay and chat with Lenny, or leave.)*
+
 *Music note*
 
 //Scene fades the returns with the two talking in the room
