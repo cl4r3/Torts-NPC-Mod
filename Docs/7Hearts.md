@@ -1,36 +1,45 @@
 # Torts 7 Heart Event
 Setting: Ridgeside Village Admin
 Time: 2pm-6pm
-Weather: Clear
+Weather: Any
 
 //Farmer walks in the building while Lenny is there.
 
-Lenny: Hi there, @! Come on in!
+Lenny: Oh, hey, @! Can I help you with anything?
 
 *:)*
 
-Lenny: You got time to chat for a bit?
+Lenny: Oh, you're just stopping by? Well, come on in! I could use someone to chat with. Can I get you tea or coffee or anything?
 
 *Music note*
 
 //Scene fades the returns with the two talking in the room
 
-Lenny: Haha, it seems like you've made a couple of friends here in the village.
+Lenny: Man, I needed a break. I'll tell you, Ridgeside Village may technically be a bureau of Pelican Town, but we've grown so large that sometimes it feels like I should be the mayor and Lewis should be the administrator.
 
-Lenny: You even got that little turtle to let down his guard around you.
-
-*:)*
-
-Lenny: He doesn't seem to trust anyone, besides Yuuma at least. He's a strange little fellow that turtle.
+Lenny: No no, I'm just kidding! Kind of. But it is true that our little village has grown a lot these past few years. You may not know this, but we got a lot of newcomers right before you, too. Ian and Sean, Faye, Ysabelle, just to name a few. They all arrived only a year or two before you.
 
 *?*
 
-Lenny: Well, he was here before both me and Lewis. We decided to ask the old mayor about him once, and he said that Torts was here before even him if you can believe it.
+Lenny: What was it like before? Well, the village was awfully small, I can tell you that much. There were just a few families around, but those who were there had 
+been there for generations. Take the Legames, for example. Their family has been running that store for as long as I can remember. It almost shut down when Carlo died-- Thank Yoba Lorenzo came back from Zuzu to run it. He's a good son.
 
-Lenny: Nobody was sure when he came to the village, the librarian at the time mentioned that there was records of a turtle from a little after the village was founded. 
+Lenny: Yep, there's the Legames, the Daniels, the Lidens... Oh, wait! There's someone else I'm forgetting. Wanna guess who it is?
 
-Lenny: I guess that must've been one of his relatives huh?
+*?*
 
-Lenny: One thing is for sure is that is one old turtle Wahaha.
+Lenny: No clue? Well, it's Torts!
+
+*!*
+
+Lenny: Yup! That little turtle's been hangin' around here as long as anyone. Our family moved here when I was just a girl and he was already a staple figure. Heck, I even asked the previous mayor about him once, and he said Torts was here before him-- Is that crazy or what? And I asked Gunther to look into it once, and he found records mentioning a turtle already being here around the time the village was founded. I guess that must've been one of his relatives? So maybe he's a generational Ridgeside-ite, too!
+
+*?*
+
+Lenny: Oh, he doesn't belong to anybody, really. I think he's decided to settle down here, like all the rest of us. I like to say he's the town turtle!
+
+Lenny: The kids are all so attached to him, I told them they were his official caretakers. But really he's more than capable of taking care of himself. Although, when Ian came, I asked him to build a little house for him, just because it's so darn cute.
+
+Lenny: One thing is for sure, though-- That is one old turtle! Wahaha
 
 //Scene Ends
