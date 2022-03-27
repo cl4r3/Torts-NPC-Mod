@@ -146,7 +146,7 @@
         {
           "Operation": "Append",
           "Target": ["Entries", "Set-Up_additionalCharacters"],
-          "Value": "Torts 22 21 2",
+          "Value": "Torts 20 21 2",
           "Delimiter": "/"
         },
         {
