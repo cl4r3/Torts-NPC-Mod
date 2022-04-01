@@ -6,7 +6,7 @@ Weather: Clear Skies
 Idea 2 (Maybe something like Torts joins you while you run errands in town or like the farm)
 //Walking by in town when Torts call to you
 
-Torts: Turt!
+Torts: Tuh-turt!$1
 
 //Hit the :) emoji
 
@@ -16,9 +16,9 @@ Torts: Turt!
 
 *?*
 
-*Seems like Torts wants to hangout with you today*
+*Seems like Torts wants to hangout with you today...*
 
-Torts: *Smiles*
+Torts: *Smiles*$1
 
 //So you keep walking and then montage ensues.
 
@@ -26,23 +26,17 @@ Torts: *Smiles*
 
 //Another is you dropping off a package to Lenny
 
-//Third scene is you pass by Flor walking in town
+//Third scene is Torts trying to eat Jeric's crops, Jeric catching them and the farmer having to apologize while Torts continues to eat the crops without remorse
 
-//Then you get stopped by Yuuma outside of his house
+Cut back to Torts' doghouse. You're both sitting down outside of it.
 
-Yuuma: Hello @. I see Torts is with you today also.
+Torts does ... emote, scoots closer, scoots closer again, then does <3 emote.
 
-*Music note emote*
+Torts: Tuh-turt!$1
 
-Yuuma: It seems the two of you have become very close, especially compared to when you first met Torts.
+// :3 emote
 
-Torts: Turt!
+Fade to black.
 
-Yuuma: Torts doesn't seem to care for a lot of people, he seems content being on his own.
-
-Yuuma: I worry about him feeling lonely so I'm glad that he seems to consider you his friend.
-
-*:)*
-
-//Scene ends, maybe another line or two, kinda a very basic rough draft
+*Maybe this little turtle isn't so grumpy after all.*
 
