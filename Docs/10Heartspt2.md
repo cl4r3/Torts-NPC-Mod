@@ -1,7 +1,8 @@
-          # Torts 8 Heart Event
-Setting:Torts Pond
-Time: 12-6pm
-Weather: Clear Skies
+          # Torts 10 Heart Event, "Neutral" Version
+Setting:Torts Pond //
+Time: 12-6pm //
+Weather: Clear Skies //
+Season: Not winter
 
 Idea 2 (Maybe something like Torts joins you while you run errands in town or like the farm)
 //Walking by in town when Torts call to you
